@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Week8Lab1 (Iterative and Recursive Functionality)", "Week8Lab1 (Iterative and Recursive Functionality).pyproj", "{380837FE-DD29-4DDA-98AA-0799C4D12904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{380837FE-DD29-4DDA-98AA-0799C4D12904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380837FE-DD29-4DDA-98AA-0799C4D12904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B814F4-9669-4A30-AE7D-3BE32EAFA40C}
+	EndGlobalSection
+EndGlobal
